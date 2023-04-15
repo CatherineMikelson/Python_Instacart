@@ -1,6 +1,6 @@
 # Instacart Python Project
 
-Objective: Perform initial data and exploratory analysis for Instacart, a US-based grocery store app. Analysis determined sale trends based on numerous factors including time of use, customer profile/demographic, etc., in order to a create targeted marketing campaigns.
+Objective: Perform initial data and exploratory analysis for Instacart, a US-based grocery store app. Identify sale trends based on numerous factors including time of use, customer profile/demographic, etc., in order to create targeted marketing campaigns.
 
 Data: Opensource Instacart data from 2017.
 
