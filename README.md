@@ -9,4 +9,6 @@ Opensource Instacart data from [2017](https://www.instacart.com/datasets/grocery
 ## Tools: 
 Excel and Python
 
-This project was conducted as part of the Career Foundry Data Analytics Bootcamp.
+
+
+Note: This project was conducted as part of the Career Foundry Data Analytics Bootcamp.
